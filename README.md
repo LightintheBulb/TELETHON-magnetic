@@ -9,6 +9,7 @@ https://telethon-magnetic.herokuapp.com/
 
 ## Screenshot
 
+<img width="1017" alt="Screenshot 2023-03-11 at 10 05 37 PM" src="https://user-images.githubusercontent.com/96213325/224521959-d99a50e3-af6b-47eb-a8d4-8430c87fb4b0.png">
 
 
 
